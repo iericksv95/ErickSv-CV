@@ -12,3 +12,23 @@ body {
     align-items: center;
     min-height: 100vh;
 }
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 100px;
+    background: #fff;
+}
+
+.container .left_Side{
+    position: relative;
+    padding: 40px;
+    background: rgb(46, 28, 211);
+}
+
+.container .right_Side{
+    position: relative;
+    padding: 40px;
+    background: rgb(46, 28, 211);
+}
