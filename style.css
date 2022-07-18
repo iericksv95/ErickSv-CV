@@ -25,10 +25,10 @@ body {
     box-shadow: 0 35px 55px rgb(8, 8, 8);
 }
 
-.container .left_side {
+.container .left-side {
     position: relative;
-    padding: 40px;
     background: rgb(29, 19, 122);
+    padding: 40px;
 }
 
 /**.container .right_side {
