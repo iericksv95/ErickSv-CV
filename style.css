@@ -1,4 +1,4 @@
-*   {
+* {
     margin: 0;
     padding: 0;  
     box-sizing: border-box;
@@ -25,13 +25,13 @@ body {
     box-shadow: 0 35px 55px rgb(8, 8, 8);
 }
 
-.container .left_Side{
+.container .left_Side {
     position: relative;
     padding: 40px;
-    background: rgb(46, 28, 211);
+    background: rgb(29, 19, 122);
 }
 
-.container .right_Side{
+.container .right_Side {
     position: relative;
     padding: 40px;
     background: rgb(255, 255, 255);
