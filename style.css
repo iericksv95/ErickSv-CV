@@ -36,3 +36,15 @@ body {
     padding: 40px;
     background: rgb(250, 249, 249);
 }
+
+.imgBox{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+
+.imgBox > .imgProfile{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
