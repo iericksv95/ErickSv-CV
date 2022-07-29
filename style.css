@@ -6,7 +6,7 @@
 }
 
 body {
-    background: lightblue;
+    background: rgb(147, 180, 190);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,22 +17,22 @@ body {
     position: relative;
     width: 100%;
     max-width: 1000px;
-    min-height: 100px;
+    min-height: 900px;
     background: #fff;
     margin: 50px;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    box-shadow: 0 35px 55px rgb(8, 8, 8);
+    box-shadow: 0 35px 55px rgb(70, 66, 66);
 }
 
 .container .left-side {
     position: relative;
-    background: rgb(29, 19, 122);
+    background: rgb(53, 39, 184);
     padding: 40px;
 }
 
-/**.container .right_side {
+.container .right-side {
     position: relative;
     padding: 40px;
-    background: rgb(255, 255, 255);
-}**/
+    background: rgb(250, 249, 249);
+}
