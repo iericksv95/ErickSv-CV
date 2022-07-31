@@ -17,7 +17,7 @@ body {
     position: relative;
     width: 100%;
     max-width: 1000px;
-    min-height: 900px;
+    min-height: 951px;
     background: #fff;
     margin: 50px;
     display: grid;
@@ -28,7 +28,7 @@ body {
 .container .left-side {
     position: relative;
     background: rgb(53, 39, 184);
-    padding: 40px;
+    padding: 45px;
 }
 
 .profileText{
